@@ -1,3 +1,3 @@
 # References
 
-* octocat 1 😈
+* C++ programming with more than 10 years experience
